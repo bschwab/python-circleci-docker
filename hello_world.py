@@ -8,7 +8,7 @@ def wrap_html(message):
         <body>
             <div style='font-size:80px;'>
             <center>
-                <image height="600" width="531" src="https://secure.meetupstatic.com/photos/event/2/a/a/3/600_452110915.jpeg">
+                <image src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png">
                 <br>
                 {0}<br>
             </center>
