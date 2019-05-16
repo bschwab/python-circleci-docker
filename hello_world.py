@@ -5,6 +5,9 @@ app = Flask(__name__)
 def wrap_html(message):
     html = """
         <html>
+        <head>
+            <meta name="description" content="a whale fan site">
+        </head>
         <body>
             <div style='font-size:80px;'>
             <center>
