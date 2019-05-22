@@ -7,7 +7,7 @@ def wrap_html(message):
         <html>
         <head>
             <meta name="description" content="a whale fan site">
-            <meta name="keywords" content="whale,whales,docker,fun,github">
+            <meta name="keywords" content="whale,whales,docker,fun,github,circleci">
         </head>
         <body>
             <div style='font-size:80px;'>
